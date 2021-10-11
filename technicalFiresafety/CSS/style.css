@@ -1,0 +1,10 @@
+body{
+    scroll-behavior: smooth;
+}
+.hovereffect:hover{
+border-radius: 20px;
+color: white;
+background-color: red;
+
+
+}
